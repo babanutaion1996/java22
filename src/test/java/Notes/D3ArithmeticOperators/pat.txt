@@ -1,0 +1,15 @@
+
+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 -> personal access token
+
+https://github.com/babanutaion1996/java22.git -> remote repository url on gitHub.
+
+Creating a command to add remote repo with access token.
+https://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@github.com/babanutaion1996/java22.git
+https://PersonalAccessToken@github.com/username/repositoryname.git
+
+
+to add this url we use
+```
+git remote add origin https://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@github.com/babanutaion1996/java22.git
+
+```
